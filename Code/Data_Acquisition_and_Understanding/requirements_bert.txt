@@ -1,0 +1,12 @@
+pandas
+pyarrow
+sentence_transformers
+scipy
+gensim
+tqdm
+
+torch
+torchtext
+torchvision
+torchaudio
+--index-url https://download.pytorch.org/whl/cu118
